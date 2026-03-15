@@ -1,4 +1,4 @@
-# Python Project
+# README UPDATE
 
 This is a simple Python project created for learning Git and GitHub.
 
